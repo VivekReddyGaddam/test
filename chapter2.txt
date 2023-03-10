@@ -1,1 +1,1 @@
-This is the second attempt to make initial commit
+I've erased everything to make sure the branching works
